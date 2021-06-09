@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://alindraganescu.github.io/csb-e818c/static/css/main.4850a4c7.chunk.css",
+    "main.js": "https://alindraganescu.github.io/csb-e818c/static/js/main.72eff962.chunk.js",
+    "main.js.map": "https://alindraganescu.github.io/csb-e818c/static/js/main.72eff962.chunk.js.map",
+    "runtime-main.js": "https://alindraganescu.github.io/csb-e818c/static/js/runtime-main.fcd71dad.js",
+    "runtime-main.js.map": "https://alindraganescu.github.io/csb-e818c/static/js/runtime-main.fcd71dad.js.map",
+    "static/js/2.59c3b2f9.chunk.js": "https://alindraganescu.github.io/csb-e818c/static/js/2.59c3b2f9.chunk.js",
+    "static/js/2.59c3b2f9.chunk.js.map": "https://alindraganescu.github.io/csb-e818c/static/js/2.59c3b2f9.chunk.js.map",
+    "index.html": "https://alindraganescu.github.io/csb-e818c/index.html",
+    "static/css/main.4850a4c7.chunk.css.map": "https://alindraganescu.github.io/csb-e818c/static/css/main.4850a4c7.chunk.css.map",
+    "static/js/2.59c3b2f9.chunk.js.LICENSE.txt": "https://alindraganescu.github.io/csb-e818c/static/js/2.59c3b2f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcd71dad.js",
+    "static/js/2.59c3b2f9.chunk.js",
+    "static/css/main.4850a4c7.chunk.css",
+    "static/js/main.72eff962.chunk.js"
+  ]
+}
